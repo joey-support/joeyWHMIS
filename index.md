@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# WHMIS
 
-You can use the [editor on GitHub](https://github.com/joey-support/joeyWHMIS/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/joey-support/joeyWHMIS/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- [ANTIMICROBIAL FRUIT & VEGETABLE TREATMENT](https://safetydata.ecolab.com/svc/GetPdf/ANTIMICROBIAL_FRUIT_and_VEGETABLE_TREATMENT_English?sid=913510-06&cntry=CA&langid=en-GB&langtype=RFC1766LangCode&locale=en&pdfname=ANTIMICROBIAL_FRUIT_and_VEGETABLE_TREATMENT_English.pdf)
+- [CLEAN & SMOOTH](https://safetydata.ecolab.com/svc/GetPdf/CLEAN_and_SMOOTH_English?sid=913996&cntry=CA&langid=en-GB&langtype=RFC1766LangCode&locale=en&pdfname=CLEAN_and_SMOOTH_English.pdf)
+- [CPS-490](https://safetydata.ecolab.com/svc/GetPdf/CPS_490_English?sid=985515&cntry=CA&langid=en-GB&langtype=RFC1766LangCode&locale=en&pdfname=CPS_490_English.pdf)
+- [ECOTEMP ULTRA DRY](https://safetydata.ecolab.com/svc/GetPdf/ECOTEMP_ULTRA_DRY_English?sid=918855&cntry=CA&langid=en-GB&langtype=RFC1766LangCode&locale=en&pdfname=ECOTEMP_ULTRA_DRY_English.pdf)
+- [GEL HAND SANITIZER](https://safetydata.ecolab.com/svc/GetPdf/GEL_HAND_SANITIZER_English?sid=903709-10&cntry=CA&langid=en-GB&langtype=RFC1766LangCode&locale=en&pdfname=GEL_HAND_SANITIZER_English.pdf)
+- [GLASS CLEANER](https://safetydata.ecolab.com/svc/GetPdf/GLASS_CLEANER_English?sid=914266-03&cntry=CA&langid=en-GB&langtype=RFC1766LangCode&locale=en&pdfname=GLASS_CLEANER_English.pdf)
+- [GREASE EXPRESS HIGH TEMP GRILL CLEANER](https://safetydata.ecolab.com/svc/GetPdf/GREASE_EXPRESS_HIGH_TEMP_GRILL_CLEANER_English?sid=910312&cntry=CA&langid=en-GB&langtype=RFC1766LangCode&locale=en&pdfname=GREASE_EXPRESS_HIGH_TEMP_GRILL_CLEANER_English.pdf)
+- [GREASELIFT RTU](https://safetydata.ecolab.com/svc/GetPdf/GREASELIFT_RTU_English?sid=915136-07&cntry=CA&langid=en-GB&langtype=RFC1766LangCode&locale=en&pdfname=GREASELIFT_RTU_English.pdf)
+- [MIKRO QUAT](https://safetydata.ecolab.com/svc/GetPdf/MIKRO_QUAT_English?sid=910434&cntry=CA&langid=en-GB&langtype=RFC1766LangCode&locale=en&pdfname=MIKRO_QUAT_English.pdf)
+- [MIKROKLENE](https://safetydata.ecolab.com/svc/GetPdf/MIKROKLENE_English?sid=903363&cntry=CA&langid=en-GB&langtype=RFC1766LangCode&locale=en&pdfname=MIKROKLENE_English.pdf)
+- [OASIS 137 ORANGE FORCE](https://safetydata.ecolab.com/svc/GetPdf/OASIS_137_ORANGE_FORCE_English?sid=915294&cntry=CA&langid=en-GB&langtype=RFC1766LangCode&locale=en&pdfname=OASIS_137_ORANGE_FORCE_English.pdf)
+- [OASIS 146 MULTI-QUAT LIQUID SANITIZER](https://safetydata.ecolab.com/svc/GetPdf/OASIS_146_MULTI_QUAT_LIQUID_SANITIZER_English?sid=910787-07&cntry=CA&langid=en-GB&langtype=RFC1766LangCode&locale=en&pdfname=OASIS_146_MULTI_QUAT_LIQUID_SANITIZER_English.pdf)
+- [OASIS ENFORCE](https://safetydata.ecolab.com/svc/GetPdf/OASIS_ENFORCE_English?sid=908857&cntry=CA&langid=en-GB&langtype=RFC1766LangCode&locale=en&pdfname=OASIS_ENFORCE_English.pdf)
+- [PANTASTIC](https://safetydata.ecolab.com/svc/GetPdf/PANTASTIC_English?sid=916228&cntry=CA&langid=en-GB&langtype=RFC1766LangCode&locale=en&pdfname=PANTASTIC_English.pdf)
+- [PEROXIDE MULTI SURFACE CLEANER AND DISINFECTANT](https://safetydata.ecolab.com/svc/GetPdf/PEROXIDE_MULTI_SURFACE_CLEANER_AND_DISINFECTANT_English?sid=919267&cntry=CA&langid=en-GB&langtype=RFC1766LangCode&locale=en&pdfname=PEROXIDE_MULTI_SURFACE_CLEANER_AND_DISINFECTANT_English.pdf)
+- [STAINLESS STEEL CLEANER & POLISH](https://safetydata.ecolab.com/svc/GetPdf/STAINLESS_STEEL_CLEANER_and_POLISH_English?sid=900096-03&cntry=CA&langid=en-GB&langtype=RFC1766LangCode&locale=en&pdfname=STAINLESS_STEEL_CLEANER_and_POLISH_English.pdf)
+- [ULTRA SAN](https://safetydata.ecolab.com/svc/GetPdf/ULTRA_SAN_English?sid=900043-37&cntry=CA&langid=en-GB&langtype=RFC1766LangCode&locale=en&pdfname=ULTRA_SAN_English.pdf)
+- [ULTRAKLEEN PLUS](https://safetydata.ecolab.com/svc/GetPdf/ULTRAKLEEN_PLUS_English?sid=943670-01&cntry=CA&langid=en-GB&langtype=RFC1766LangCode&locale=en&pdfname=ULTRAKLEEN_PLUS_English.pdf)
